@@ -137,7 +137,17 @@ ul.unstyled-list {
 }
 
 .bx-bg-gray {
-    background: #f7f7f7;
+    background: #f4f4f4;
+}
+
+.btn {
+    border-radius: 2px;
+}
+
+.btn.btn-compose-mail {
+    background: #e74c3c;
+    color: #fff;
+    width: 100%;
 }
 
 img.img-media-sm {
